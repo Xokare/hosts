@@ -1,4 +1,4 @@
-﻿#Title: hosts file from LuckyPatcher by ChelpuS #
+﻿# Title: hosts file from LuckyPatcher by ChelpuS
 
 127.0.0.1 adad.ir
 127.0.0.1 dgad.ir
